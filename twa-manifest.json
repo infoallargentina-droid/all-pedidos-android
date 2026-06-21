@@ -1,0 +1,51 @@
+{
+  "packageId": "com.allargentina.pedidos",
+  "host": "infoallargentina-droid.github.io",
+  "name": "ALL Pedidos",
+  "launcherName": "ALL Pedidos",
+  "display": "standalone",
+  "themeColor": "#FF4D00",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FF4D00",
+  "enableNotifications": true,
+  "startUrl": "/all-pedidos/",
+  "iconUrl": "https://infoallargentina-droid.github.io/all-pedidos/icon-512.png",
+  "maskableIconUrl": "https://infoallargentina-droid.github.io/all-pedidos/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:\\ALLBuild2\\signing.keystore",
+    "alias": "my-key-alias"
+  },
+  "appVersionName": "2",
+  "appVersionCode": 2,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://infoallargentina-droid.github.io/all-pedidos/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": true
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://infoallargentina-droid.github.io/all-pedidos/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "displayOverride": [],
+  "appVersion": "2"
+}
